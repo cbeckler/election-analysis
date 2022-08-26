@@ -50,7 +50,7 @@ with open(file_to_load) as election_data:
         # Then, add a vote to that county's vote count.
         county_votes[county_name] += 1
  ```
-The same process was followed for candidate votes. As seen above, the total votes had already been calculated by simply adding one for every row before looping through county or candidate conditionals. To get county vote percentages, the number of votes for each county (stored in `county_votes`) was simply divided byt the total votes and then multipled by 100. The same process was followed for candidates. 
+The same process was followed for candidate votes. As seen above, the total votes had already been calculated by simply adding one for every row before looping through county or candidate conditionals. To get county vote percentages, the number of votes for each county (stored in `county_votes`) was simply divided by the total votes and then multipled by 100. The same process was followed for candidates. 
 
 A summary of all results was then written to a text file for ease of viewing and distribution.
 
