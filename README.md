@@ -16,7 +16,7 @@ The purpose of this analysis was to provide the client with an audit of election
 * Vote Breakdown by Candidate:
 
   ![Candidate Vote Breakdown](https://github.com/cbeckler/election-analysis/blob/main/Resources/candidate_votes.png)
- * The candidate **Diana Degette** won the election, with 73.8% of the vote (N = 272,892)
+ * The candidate **Diana DeGette** won the election, with 73.8% of the vote (N = 272,892)
  
  ### Method
  
